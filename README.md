@@ -13,7 +13,9 @@
 ¿Qué es Google Cloud?
 
 Google Cloud (Nube de Google) es una plataforma que ha reunido todas las aplicaciones de desarrollo web que Google estaba ofreciendo por separado. Es utilizada para crear ciertos tipos de soluciones a través de la tecnología almacenada en la nube y permite por ejemplo destacar la rapidez y la escalabilidad de su infraestructura en las aplicaciones del buscador.
+
 Google Cloud se refiere al espacio virtual a través del cual se puede realizar una serie de tareas que antes requerían de hardware o software y que ahora utilizan la nube de Google como única forma de acceso, almacenamiento y gestión de datos.
+
 Google ofrece una variedad de servicios basados en la nube. Google Cloud Print permite imprimir desde la web, el escritorio o dispositivo móvil sin la necesidad de un sistema operativo en particular o controladores. En su lugar, envías el documento a cualquier impresora conectada a la nube. Google también ofrece espacio en la nube para desarrolladores de bases de datos SQL para crear aplicaciones, así como para los usuarios de Microsoft Office que deseen editar colaborativamente documentos de Word, PowerPoint y Excel, sin necesidad de la utilización de un cliente local
 
 Recursos de GCP
@@ -85,6 +87,7 @@ b)	Una vez ingresemos se nos solicitara que iniciemos sección en Google, pidien
 
  
 c)	Ingresada a la cuenta nos solicitara que aceptemos las condiciones del servicio, como también nos solicitara información personal como nuestros nombres y residencia, el tipo de cuenta que se va a usar (Particular o de empresa). También será necesaria Ingresar un método de pago como una tarjeta, esto para comprobar que no somos bots. Podemos encontrar más información en condiciones del sistema. 
+
 	Link: https://cloud.google.com/terms/free-trial/?_ga=2.143533493.-1204134252.1591333727&_gac=1.15393666.1591335662.EAIaIQobChMI8rTho_vp6QIVCbSzCh2dpwGJEAAYASAAEgI7Q_D_BwE
 
 ![]( https://github.com/JorgeCruzV/Tutorial-MaquinaVirtual-Google-Cloud-/blob/master/Imagenes/2.2%20REGISTRO%20GOOGLE%20CLOUD.png)
@@ -143,8 +146,6 @@ e)	Una vez seleccionado todos los detalles de nuestra máquina virtual “Creamo
  
 
  
-
-
 
 6)	PROCESO PARA INICIAR E INGRESAR A NUESTRA MÁQUINA VIRTUAL MEDIANTE CONEXIÓN REMOTA.
 
